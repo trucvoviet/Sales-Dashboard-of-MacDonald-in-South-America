@@ -237,33 +237,5 @@ All values update automatically when data changes because:
 * Text boxes reference cells
 * Percentages use formulas
 
----
 
-## Key Excel Techniques Learned
-
-### Dynamic Linking
-
-Link shapes & text boxes to cells
-
-### Dashboard Formulas
-
-```excel
-Completion % = Actual / Target
-Remaining = 1 - Completion
-```
-
-### Chart Optimization
-
-* Axis scaling
-* Marker customization
-* Removing clutter (legends, borders)
-
-### UI Design Tricks
-
-* Shapes as containers
-* Shadow effects
-* Consistent color theme
-* Format Painter for uniform styling
-
----
 
